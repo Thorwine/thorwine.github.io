@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Thorwine/thorwine.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here are some of my projects from different online curriculums... 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Odin Project
 
-### Markdown
+[Odin Recipes](https://thorwine.github.io/odin-recipes/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### freeCodeCamp
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thorwine/thorwine.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Cafe Menu](https://thorwine.github.io/fCC-002-RWD-CafeMenu/)
+[Registration Form](https://thorwine.github.io/fCC-004-RWD-RegistrationForm/)
