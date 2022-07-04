@@ -26,7 +26,8 @@ Here are some of my projects, that I currently use for my education. It's not mu
 #### The Odin Project
 
 [Odin Recipes](https://thorwine.github.io/odin-recipes/)<br>
-[Odin Landing Page](https://thorwine.github.io/odin-landingpage/)
+[Odin Landing Page](https://thorwine.github.io/odin-landingpage/)<br>
+[Odin Landing Page - Rework](https://thorwine.github.io/odin-landingpage-rework/)
 
 #### freeCodeCamp
 
