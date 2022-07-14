@@ -25,10 +25,11 @@ Here are some of my projects, that I currently use for my education. It's not mu
 
 #### The Odin Project
 
-[Odin Recipes](https://thorwine.github.io/odin-recipes/)<br>
-[Odin Landing Page](https://thorwine.github.io/odin-landingpage/)
+[Odin - Recipes](https://thorwine.github.io/odin-recipes/)<br>
+[Odin - Landing Page](https://thorwine.github.io/odin-landingpage/)<br>
+[Odin - Rock Paper Scissors](https://thorwine.github.io/odin-rock-paper-scissors/)
 
 #### freeCodeCamp
 
-[Cafe Menu](https://thorwine.github.io/fCC-002-RWD-CafeMenu/)<br>
-[Registration Form](https://thorwine.github.io/fCC-004-RWD-RegistrationForm/)
+[fCC - Cafe Menu](https://thorwine.github.io/fCC-002-RWD-CafeMenu/)<br>
+[fCC - Registration Form](https://thorwine.github.io/fCC-004-RWD-RegistrationForm/)
