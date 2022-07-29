@@ -10,13 +10,13 @@ I'm a System- and Network-Administrator and into the IT business for over 20 yea
 
 #### :: further education
 
-[self-taught] Web Development (HTML, CSS & JavaScript)<br>
+[self-taught] Front-end web development (HTML, CSS & JavaScript)<br>
 [self-taught] Git & GitHub<br>
-[self-taught] Xubuntu Linux in VirtualBox (thnx TOP!)
+[self-taught] Xubuntu Linux in Oracle VirtualBox (thnx TOP!)
 
 #### :: goal
 
-Primarily Web Development is just a hobby in my freetime, but some knowledge is always used in business too. Maybe some freelancing in a distant future...
+Primarily web development is just a hobby in my freetime, but some knowledge is always used in business too. Maybe some freelancing in a distant future...
 
 #### :: online curriculums
 
