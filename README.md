@@ -28,7 +28,8 @@ Here are some of my projects, that I currently use for my education. It's not mu
 [Odin - Recipes](https://thorwine.github.io/odin-recipes/)<br>
 [Odin - Landing Page](https://thorwine.github.io/odin-landingpage/)<br>
 [Odin - Rock Paper Scissors](https://thorwine.github.io/odin-rock-paper-scissors/)<br>
-[Odin - Etch-a-Sketch](https://thorwine.github.io/odin-etch-a-sketch/)
+[Odin - Etch-a-Sketch](https://thorwine.github.io/odin-etch-a-sketch/)<br>
+[Odin - Calculator](https://thorwine.github.io/odin-calculator/)
 
 #### freeCodeCamp
 
