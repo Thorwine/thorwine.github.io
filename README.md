@@ -2,7 +2,7 @@
 
 #### :: person
 
-My name is Marc (aka Thorwine) from Southern Germany. 
+My name is Marc (aka Thorwine) from Southern Germany.
 
 #### :: knowledge
 
@@ -21,12 +21,13 @@ Primarily web development is just a hobby in my freetime, but some knowledge is 
 #### :: online curriculums
 
 Here are some of my projects, that I currently use for my education. It's not much, but...<br>
- *'A journey of a thousand miles must begin with a single step.'* - Lao Tzu
+_'A journey of a thousand miles must begin with a single step.'_ - Lao Tzu
 
 #### The Odin Project
 
 [Odin - Recipes](https://thorwine.github.io/odin-recipes/)<br>
 [Odin - Landing Page](https://thorwine.github.io/odin-landingpage/)<br>
+[Odin - Landing Page 2](https://thorwine.github.io/odin-landingpage-2/)<br>
 [Odin - Rock Paper Scissors](https://thorwine.github.io/odin-rock-paper-scissors/)<br>
 [Odin - Etch-a-Sketch](https://thorwine.github.io/odin-etch-a-sketch/)<br>
 [Odin - Calculator](https://thorwine.github.io/odin-calculator/)
